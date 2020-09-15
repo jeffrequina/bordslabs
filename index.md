@@ -13,7 +13,7 @@ This is my personal website repository from all my software development works an
 Software Development Lifecycle
 -------
 - - -
-![Software Development Lifecycle](bordslabs/images/softdev_lifecycle "Software Development Lifecycle")
+![Software Development Lifecycle](https://github.com/jeffrequina/bordslabs/blob/master/images/softdev_lifecycle.jpg?raw=true "Software Development Lifecycle")
 
 - - -
 Sitemap
