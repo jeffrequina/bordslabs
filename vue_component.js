@@ -17,7 +17,14 @@
                     style="border: solid 4px #37474F">
                 </iframe>
             </div>
-            <div class="mt-2 col-xs-6 col-md-2" id="player2"></div>
+            <div class="mt-2 col-xs-6 col-md-2">
+                <iframe id="player2"
+                       width="370" height="180"
+                       src="https://www.youtube.com/embed?listType=user_uploads&list=BordstheFoodie&enablejsapi=1"
+                       frameborder="0"
+                       style="border: solid 4px #37474F">
+               </iframe>
+            </div>
             <div class="mt-2 col-xs-6 col-md-2" id="player3"></div>
             <div class="mt-2 col-xs-6 col-md-2" id="player4"></div>
             <div class="mt-2 col-xs-6 col-md-2" id="player5"></div>
